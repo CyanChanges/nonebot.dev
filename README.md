@@ -50,10 +50,12 @@ echo "127.0.0.1  nonebot.dev" | save -a /etc/hosts
 ```
 
 
-#### Microsoft Windows | 视窗
+#### Microsoft Windows | M$ 视窗
 Open `C:\Windows\System32\drivers\etc\hosts`
 with your favourite editor (`nodepad`, `code`, `nvim`, etc.) as Administrator  
-以管理员权限用你喜欢的编辑器(`nodepad`, `code`, `nvim` ...)打开 `C:\Windows\System32\drivers\etc\hosts`
+
+用你喜欢的编辑器
+打开 `C:\Windows\System32\drivers\etc\hosts` (需要以管理员权限运行)
 
 Add following line at the end of the hosts file  
 加入以下内容到文件结尾
