@@ -5,8 +5,9 @@ Nonebot docs alias for Koishi Document
 > \* Currently, no public deploy supported
 
 ## Requirements
-- caddy
-local 80 / 443 ports availiable
+- caddy  
+
+80 and 443 ports availiable
 
 ### TLS Support
 See <https://caddyserver.com/docs/command-line#caddy-trust>
