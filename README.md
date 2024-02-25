@@ -41,7 +41,7 @@ sudo echo "127.0.0.1  nonebot.dev" >> /etc/hosts
 
 #### Windows
 Open `C:\Windows\System32\drivers\etc\hosts`
-with your favourite editor (`nodepad`, `code`, `nvim`, etc.)
+with your favourite editor (`nodepad`, `code`, `nvim`, etc.) as Administrator
 
 Add following line at the end of the hosts file
 ```hosts
