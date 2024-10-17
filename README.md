@@ -9,17 +9,17 @@ Nonebot docs alias for Koishi Document
 ## Requirements | 要求
 - caddy  
 
-80 and 443 ports availiable  
+80 and 443 ports available  
 80 和 443 端口未被占用
 
 ### TLS Support | TLS 支持
 See <https://caddyserver.com/docs/command-line#caddy-trust>
 
-## Quick Start
+## Quick Start | 快速开始
 
-### Clone
+### Clone | 克隆存储库
 
-#### git
+#### Git
 ```sh
 git clone [https://](https://github.com/CyanChanges/nonebot.dev)https://github.com/CyanChanges/nonebot.dev
 ```
